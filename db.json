@@ -1,6 +1,7 @@
 [
   {
     "title": "Should I work remotely or will it put a strain on my long-term career?",
+    "subtitle": "./subtitle.txt",
     "author": "ALICE COOPER",
     "publishDate": "20/05/2019",
     "image": "C:/Users/Victor/Downloads/post-image-1.png",
@@ -8,6 +9,7 @@
   },
   {
     "title": "Should I work remotely or will it put a strain on my long-term career?",
+    "subtitle": "./subtitle.txt",
     "author": "ALICE COOPER",
     "publishDate": "20/05/2019",
     "image": "C:/Users/Victor/Downloads/post-image-2.png",
@@ -15,6 +17,7 @@
   },
   {
     "title": "Should I work remotely or will it put a strain on my long-term career?",
+    "subtitle": "./subtitle.txt",
     "author": "ALICE COOPER",
     "publishDate": "20/05/2019",
     "image": "C:/Users/Victor/Downloads/post-image-3.png",
@@ -22,6 +25,7 @@
   },
   {
     "title": "Should I work remotely or will it put a strain on my long-term career?",
+    "subtitle": "./subtitle.txt",
     "author": "ALICE COOPER",
     "publishDate": "20/05/2019",
     "image": "C:/Users/Victor/Downloads/post-image-1.png",
@@ -29,6 +33,7 @@
   },
   {
     "title": "Should I work remotely or will it put a strain on my long-term career?",
+    "subtitle": "./subtitle.txt",
     "author": "ALICE COOPER",
     "publishDate": "20/05/2019",
     "image": "C:/Users/Victor/Downloads/post-image-2.png",
@@ -36,6 +41,7 @@
   },
   {
     "title": "Should I work remotely or will it put a strain on my long-term career?",
+    "subtitle": "./subtitle.txt",
     "author": "ALICE COOPER",
     "publishDate": "20/05/2019",
     "image": "C:/Users/Victor/Downloads/post-image-3.png",
@@ -43,44 +49,10 @@
   },
   {
     "title": "Should I work remotely or will it put a strain on my long-term career?",
+    "subtitle": "./subtitle.txt",
     "author": "ALICE COOPER",
     "publishDate": "20/05/2019",
     "image": "C:/Users/Victor/Downloads/post-image-1.png",
-    "content": "./lorem-ipsum.txt"
-  },
-  {
-    "title": "Should I work remotely or will it put a strain on my long-term career?",
-    "author": "ALICE COOPER",
-    "publishDate": "20/05/2019",
-    "image": "C:/Users/Victor/Downloads/post-image-2.png",
-    "content": "./lorem-ipsum.txt"
-  },
-  {
-    "title": "Should I work remotely or will it put a strain on my long-term career?",
-    "author": "ALICE COOPER",
-    "publishDate": "20/05/2019",
-    "image": "C:/Users/Victor/Downloads/post-image-3.png",
-    "content": "./lorem-ipsum.txt"
-  },
-  {
-    "title": "Should I work remotely or will it put a strain on my long-term career?",
-    "author": "ALICE COOPER",
-    "publishDate": "20/05/2019",
-    "image": "C:/Users/Victor/Downloads/post-image-1.png",
-    "content": "./lorem-ipsum.txt"
-  },
-  {
-    "title": "Should I work remotely or will it put a strain on my long-term career?",
-    "author": "ALICE COOPER",
-    "publishDate": "20/05/2019",
-    "image": "C:/Users/Victor/Downloads/post-image-2.png",
-    "content": "./lorem-ipsum.txt"
-  },
-  {
-    "title": "Should I work remotely or will it put a strain on my long-term career?",
-    "author": "ALICE COOPER",
-    "publishDate": "20/05/2019",
-    "image": "C:/Users/Victor/Downloads/post-image-3.png",
     "content": "./lorem-ipsum.txt"
   }
 ]
